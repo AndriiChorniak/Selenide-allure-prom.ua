@@ -1,0 +1,7 @@
+<suite name="Failed" verbose="1">
+    <test name="Failed tests" >
+        <classes>
+            <class name="FailedTests"/>
+        </classes>
+    </test>
+</suite>

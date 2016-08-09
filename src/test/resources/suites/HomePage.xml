@@ -1,0 +1,7 @@
+<suite name="Home page" verbose="1">
+    <test name="Home page tests" >
+        <classes>
+            <class name="HomePageTest"/>
+        </classes>
+    </test>
+</suite>
