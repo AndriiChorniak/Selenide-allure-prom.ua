@@ -13,7 +13,7 @@
         <aspectj.version>1.8.5</aspectj.version>
         <path.chrome>src/main/resources/drivers/chromedriver.exe</path.chrome>
         <runner.browser>chrome</runner.browser>
-        <suiteFile></suiteFile>
+        <suiteFile>src/test/resources/suites/AllSuites.xml</suiteFile>
     </properties>
 
     <name>Allure Selenide AT-Info</name>
