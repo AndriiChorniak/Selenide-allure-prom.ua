@@ -17,8 +17,9 @@
     </properties>
 
     <name>Allure Selenide AT-Info</name>
-    <description>Allure Selenide AT-Info test project</description>
+    <description>Allure Selenide AT-Info test project</description> 
 
+	
     <dependencies>
         <dependency>
             <groupId>ru.yandex.qatools.allure</groupId>
